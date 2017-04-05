@@ -1,0 +1,25 @@
+PODS:
+  - PromiseKit (4.1.7):
+    - PromiseKit/Foundation (= 4.1.7)
+    - PromiseKit/QuartzCore (= 4.1.7)
+    - PromiseKit/UIKit (= 4.1.7)
+  - PromiseKit/CorePromise (4.1.7)
+  - PromiseKit/Foundation (4.1.7):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.1.7):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.1.7):
+    - PromiseKit/CorePromise
+  - SwiftSpinner (1.1.0)
+
+DEPENDENCIES:
+  - PromiseKit
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  PromiseKit: 779f2e41faf62d854e7593026ddbcb0bb5c5002d
+  SwiftSpinner: c03815614599b91eea46594bd52ba742849d0414
+
+PODFILE CHECKSUM: b3f56dfbbe6c2a1090733a4bac600f089bcfc516
+
+COCOAPODS: 1.1.1

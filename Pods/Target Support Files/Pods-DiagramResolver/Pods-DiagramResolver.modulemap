@@ -1,0 +1,6 @@
+framework module Pods_DiagramResolver {
+  umbrella header "Pods-DiagramResolver-umbrella.h"
+
+  export *
+  module * { export * }
+}
